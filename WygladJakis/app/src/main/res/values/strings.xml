@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">WygladJakis</string>
+    <string name="button2">Save</string>
+    <string name="button3">Read</string>
+    <string name="editTextTextPersonName">Enter value to save</string>
+</resources>

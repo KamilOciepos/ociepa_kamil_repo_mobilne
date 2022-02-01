@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button2">Zapisz</string>
+    <string name="button3">Wczytaj</string>
+    <string name="editTextTextPersonName">Wpisz wartosc do zapisu</string>
+</resources>
